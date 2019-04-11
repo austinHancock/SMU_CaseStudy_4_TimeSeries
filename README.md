@@ -1,4 +1,4 @@
-# SMU_CaseStudy_4_TimeSeries
+# SMU_CaseStudy_4_TimeSeries (Python)
 
 Case study for MS Data Science.
 Work done in collaboration with Kevin Cannon.
